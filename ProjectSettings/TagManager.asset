@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: MC_Nelli
+    uniqueID: 2307970817
+    locked: 0
+  - name: MC_Kelly
+    uniqueID: 200742243
+    locked: 0
