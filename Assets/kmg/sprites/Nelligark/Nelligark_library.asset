@@ -73,3 +73,9 @@ MonoBehaviour:
     - m_Name: Nelli_mouthpog
       m_Hash: 1169641892
       m_Sprite: {fileID: 21300000, guid: 3a5cd0412d37c2644ae25e7e00ba84be, type: 3}
+    - m_Name: uthpogmouth2s
+      m_Hash: 1851588637
+      m_Sprite: {fileID: 21300000, guid: c3e4a8e691ce21747a4876858989a2e4, type: 3}
+    - m_Name: Nelli_mouth4
+      m_Hash: -1003465381
+      m_Sprite: {fileID: 21300000, guid: 59f9fefd9ccd06645bd446bdbf263268, type: 3}
